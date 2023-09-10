@@ -1,0 +1,29 @@
+2023-08-23T16:11:39.168+0700 INFO Starting ECommerceApplication on hieu19-mac-pro with PID 51091 (/Users/hieu19/2Code/repo/mock4/udacity4/starter_code/target/classes started by hieu19 in /Users/hieu19/2Code/repo/mock4/udacity4/starter_code)
+2023-08-23T16:11:39.203+0700 DEBUG Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2023-08-23T16:11:39.206+0700 INFO No active profile set, falling back to default profiles: default
+2023-08-23T16:11:41.904+0700 INFO Started ECommerceApplication in 2.948 seconds (JVM running for 3.847)
+2023-08-23T16:11:51.501+0700 INFO Created user with username, hieu.
+2023-08-23T16:11:54.501+0700 INFO Found user with username, hieu.
+2023-08-23T16:12:06.555+0700 DEBUG Request is to process authentication
+2023-08-23T16:12:07.699+0700 DEBUG Request is to process authentication
+2023-08-23T16:12:13.814+0700 INFO Found user with username, hieu.
+2023-08-23T16:16:07.525+0700 INFO Starting SareetaApplication on hieu19-mac-pro with PID 51381 (/Users/hieu19/2Code/repo/mock4/udacity4/starter_code/target/classes started by hieu19 in /Users/hieu19/2Code/repo/mock4/udacity4/starter_code)
+2023-08-23T16:16:07.552+0700 DEBUG Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2023-08-23T16:16:07.559+0700 INFO No active profile set, falling back to default profiles: default
+2023-08-23T16:16:10.323+0700 INFO Started SareetaApplication in 3.0 seconds (JVM running for 3.902)
+2023-08-23T16:16:46.750+0700 INFO Created user with username, test.
+2023-08-23T16:16:46.765+0700 INFO Created user with username, test.
+2023-08-23T16:16:46.765+0700 INFO Found user with username, test.
+2023-08-23T16:16:46.766+0700 INFO Created user with username, test.
+2023-08-23T16:16:47.207+0700 INFO Starting ECommerceApplicationTests on hieu19-mac-pro with PID 51396 (started by hieu19 in /Users/hieu19/2Code/repo/mock4/udacity4/starter_code)
+2023-08-23T16:16:47.210+0700 DEBUG Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2023-08-23T16:16:47.211+0700 INFO No active profile set, falling back to default profiles: default
+2023-08-23T16:16:52.590+0700 INFO Started ECommerceApplicationTests in 5.622 seconds (JVM running for 8.064)
+2023-09-08T15:26:16.782+0700 INFO Starting SareetaApplicationTests on hieu19-mac-pro with PID 1548 (started by hieu19 in /Users/hieu19/2Code/repo/mock4/udacity4/starter_code)
+2023-09-08T15:26:16.786+0700 DEBUG Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2023-09-08T15:26:16.788+0700 INFO No active profile set, falling back to default profiles: default
+2023-09-08T15:26:22.437+0700 INFO Started SareetaApplicationTests in 5.881 seconds (JVM running for 7.64)
+2023-09-08T15:26:22.803+0700 INFO Created user with username, test.
+2023-09-08T15:26:22.809+0700 INFO Created user with username, test.
+2023-09-08T15:26:22.810+0700 INFO Found user with username, test.
+2023-09-08T15:26:22.810+0700 INFO Created user with username, test.
