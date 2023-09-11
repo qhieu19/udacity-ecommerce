@@ -21,8 +21,12 @@ public class UserDetailsServiceImplementor implements UserDetailsService {
     public UserDetails loadUserByUsername(String username) throws UsernameNotFoundException {
         com.example.demo.model.persistence.User applicationUser = applicationUserRepository.findByUsername(username);
         if (applicationUser == null) {
-            throw new UsernameNotFoundException(username);
+            throw new UsernameNotFoundException("User not found with username: " + username);
         }
-        return new org.springframework.security.core.userdetails.User(applicationUser.getUsername(), applicationUser.getPassword(), emptyList());
+        return new org.springframework.security.core.userdetails.User(
+                applicationUser.getUsername(),
+                applicationUser.getPassword(),
+                emptyList()
+        );
     }
 }
